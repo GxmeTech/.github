@@ -23,6 +23,6 @@
 <p><li>No Racism.</li></p>
 <p><li>Don't join just to be annoying / wierd.</li></p>
 
-<footer><p><b>Thanks for reading; we how you enjoy!</b></p></footer>
+<footer><p><b>Thanks for reading; we hope you enjoy!</b></p></footer>
 
 </html>
