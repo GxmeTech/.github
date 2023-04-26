@@ -11,7 +11,7 @@
 ██║░░╚██╗░██╔██╗░██║╚██╔╝██║██╔══╝░░░░░██║░░░██╔══╝░░██║░░██╗██╔══██║
 ╚██████╔╝██╔╝╚██╗██║░╚═╝░██║███████╗░░░██║░░░███████╗╚█████╔╝██║░░██║
 ░╚═════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝╚══════╝░░░╚═╝░░░╚══════╝░╚════╝░╚═╝░░╚═╝</p>
-<p>For students, by students.</p>
+<p><b>For students, by students.</b></p>
 <p>GxmeTech is a high tech game coding organization <b>and</b> paradise for those searching for games. We post popular games all the time (Minecraft, FNF, Slope, etc.) that you can play in your browser any time! We also post usefull bookmarklets, game codes, and more! For more, Follow and Star 👤 ⭐!</p>
 </head>
 
