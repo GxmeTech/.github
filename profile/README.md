@@ -26,6 +26,7 @@
 
 <h2>Controbution Rules:</h2>
 <p><li>Only post Games, Bookmarklets, and Cheats.</li></p>
+<p><li>Don't edit repos that are official (like .github).</li></p>
 <p><li>Don't spam.</li></p>
 <p><li>No Racism.</li></p>
 <p><li>Don't join just to be annoying / wierd.</li></p>
